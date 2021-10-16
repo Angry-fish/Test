@@ -2,7 +2,7 @@
 
 > iView3 转换示例项目已转移至独立仓库：https://github.com/gogocodeio/ViewUI/tree/vue3
 
-全网最简单易上手，可读性最强的 AST 处理工具！
+全网最简单易上手，可读性最强的 AST 处理工具！简直完美啊
 
 官网：https://gogocode.io
 
@@ -131,7 +131,7 @@ $(code)
 <img src="http://alp.alicdn.com/1615836725013-1244-520.png"/>
 
 
-### .parent(level)
+### .parent(level)   废弃
 获取某个父节点
 
 | 入参 | 说明 | 类型 | 默认值 |
